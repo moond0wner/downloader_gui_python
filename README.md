@@ -1,6 +1,6 @@
 <h1 align='center'>Программа которая скачивает mp4 и mp3 из Ютуб.</h1>
 <h2 align='center'>Написана на Python, с использованием Tkinter, Pytube, moviepy.</h2>
-<h3>Установить программу https://drive.google.com/drive/folders/1YkbIAJhanwjIT9yOv3JvdsMAagGVxde-?usp=sharing .</h3>
+<h3>Установить программу https://disk.yandex.ru/d/OpekTo6t0yATWw .</h3>
 <h3 align='center'>Инструкция</h3>
 <h3>1. Запустить программу</h3>
 <h3>2. Выбрать что вам нужно скачать</h3>
